@@ -1,6 +1,6 @@
 # Wanandaff
 
-## Voted best by Dept CSE, RIT Bangalore for Vocational Course 2017
+## Voted best project by Dept CSE, RIT Bangalore for Vocational Course 2017
 
 
 
