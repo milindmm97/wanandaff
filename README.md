@@ -1,4 +1,4 @@
-# wanandaff
+# Wanandaff
 
 ## Voted best by Dept CSE, RIT Bangalore for Vocational Course 2017
 
